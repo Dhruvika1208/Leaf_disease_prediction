@@ -9,6 +9,7 @@ What this project does
 The application allows users to upload an image of a plant leaf. The image is processed and passed to a trained model, which predicts the disease or identifies if the leaf is healthy. The result is then displayed on a web page
 
 Tech Stack
+
 Python – main programming language
 TensorFlow / Keras – model building and training
 OpenCV and NumPy – image processing
