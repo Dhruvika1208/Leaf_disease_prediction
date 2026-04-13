@@ -62,6 +62,7 @@ Leaf_disease_prediction/
 │── static/
 
 │── templates/
+
 │── model/
 │── app.py
 │── train.py
