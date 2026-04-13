@@ -68,6 +68,7 @@ Leaf_disease_prediction/
 │── app.py
 
 │── train.py
+
 │── requirements.txt
 │── README.md
 
