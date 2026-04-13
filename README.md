@@ -51,4 +51,5 @@ The image is resized and preprocessed
 It is passed into the trained model
 
 The model predicts the class
+
 The result is displayed on the interface
