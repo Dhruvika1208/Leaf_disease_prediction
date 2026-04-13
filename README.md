@@ -15,3 +15,13 @@ OpenCV and NumPy – image processing
 Flask – backend framework
 HTML and CSS – frontend
 
+How to run the project
+Step 1: Clone the repository
+git clone https://github.com/Dhruvika1208/Leaf_disease_prediction.git
+cd Leaf_disease_prediction
+Step 2: Install dependencies
+pip install -r requirements.txt
+Step 3: Run the application
+python app.py
+Step 4: Open in browser
+http://127.0.0.1:5000
