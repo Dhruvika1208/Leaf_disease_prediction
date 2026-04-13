@@ -40,3 +40,13 @@ Step 4: Open in browser
 
 http://127.0.0.1:5000
 
+How it works
+
+The model is trained on a dataset of plant leaf images where each image belongs to a specific class such as a disease type or a healthy leaf.
+
+When a user uploads an image:
+
+The image is resized and preprocessed
+It is passed into the trained model
+The model predicts the class
+The result is displayed on the interface
