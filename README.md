@@ -64,6 +64,7 @@ Leaf_disease_prediction/
 │── templates/
 
 │── model/
+
 │── app.py
 │── train.py
 │── requirements.txt
