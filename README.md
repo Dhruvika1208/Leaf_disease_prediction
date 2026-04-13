@@ -65,3 +65,7 @@ Leaf_disease_prediction/
 │── train.py
 │── requirements.txt
 │── README.md
+
+Results
+
+The model is able to classify leaf images into different categories with reasonable accuracy depending on the dataset and training.
