@@ -77,4 +77,9 @@ Results
 
 The model is able to classify leaf images into different categories with reasonable accuracy depending on the dataset and training.
 
-
+Future Improvements
+Improve accuracy by using more training data
+Add more disease categories
+Provide remedies or suggestions for detected diseases
+Deploy the project online
+Extend to mobile-based detection
