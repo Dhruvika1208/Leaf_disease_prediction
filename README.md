@@ -23,6 +23,7 @@ HTML and CSS – frontend
 How to run the project
 
 Step 1: Clone the repository
+
 git clone https://github.com/Dhruvika1208/Leaf_disease_prediction.git
 cd Leaf_disease_prediction
 Step 2: Install dependencies
