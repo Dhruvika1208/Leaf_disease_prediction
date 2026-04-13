@@ -89,3 +89,6 @@ Deploy the project online
 
 Extend to mobile-based detection
 
+Why I built this
+
+This project was built to understand how image classification works, how to train deep learning models, and how to integrate them into a web application using Flask.
