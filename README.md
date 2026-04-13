@@ -58,6 +58,7 @@ The result is displayed on the interface
 Project Structure
 
 Leaf_disease_prediction/
+
 │── static/
 │── templates/
 │── model/
