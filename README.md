@@ -11,6 +11,7 @@ The application allows users to upload an image of a plant leaf. The image is pr
 Tech Stack
 
 Python – main programming language
+
 TensorFlow / Keras – model building and training
 OpenCV and NumPy – image processing
 Flask – backend framework
