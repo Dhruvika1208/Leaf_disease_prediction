@@ -13,6 +13,7 @@ Tech Stack
 Python – main programming language
 
 TensorFlow / Keras – model building and training
+
 OpenCV and NumPy – image processing
 Flask – backend framework
 HTML and CSS – frontend
