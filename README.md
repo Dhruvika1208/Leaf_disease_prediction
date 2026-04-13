@@ -55,3 +55,4 @@ The model predicts the class
 The result is displayed on the interface
 
 
+Project Structure
