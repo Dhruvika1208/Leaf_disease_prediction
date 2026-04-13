@@ -31,6 +31,7 @@ cd Leaf_disease_prediction
 Step 2: Install dependencies
 
 pip install -r requirements.txt
+
 Step 3: Run the application
 python app.py
 Step 4: Open in browser
