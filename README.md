@@ -74,5 +74,4 @@ Leaf_disease_prediction/
 │── README.md
 
 Results
-
 The model is able to classify leaf images into different categories with reasonable accuracy depending on the dataset and training.
