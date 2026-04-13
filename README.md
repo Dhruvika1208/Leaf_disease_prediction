@@ -86,4 +86,5 @@ Add more disease categories
 Provide remedies or suggestions for detected diseases
 
 Deploy the project online
+
 Extend to mobile-based detection
